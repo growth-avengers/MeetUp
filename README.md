@@ -1,6 +1,6 @@
 # MeetUp
 
-## 1. TDD(TestDriven-Development)란?
+## 1. TDD(Test-Driven-Development)란?
 
 ---
 
